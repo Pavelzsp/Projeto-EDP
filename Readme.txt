@@ -1,1 +1,1 @@
-This is a folder shared With Santiago to include our PDE material
+This folder is shared with Santiago to include our PDE material
